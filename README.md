@@ -31,6 +31,8 @@ The repository contains **7 active branches**:
 
 ---
 
-## Status
+## Team Members
 
-This repository is currently a work in progress. Active development is ongoing.
+- **Samkit Jain** – samkit.jain@students.iiit.ac.in [github](https://github.com/samkit-2512j)
+- **Aryan Garg** – aryan.garg@stuudents.iiit.ac.in ([github](https://github.com/AryanGarg13))
+- 
