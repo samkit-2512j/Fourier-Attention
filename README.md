@@ -3,9 +3,9 @@ Repository for maintaining all code, experiments, and documentation related to t
 
 ---
 
-## Mid-Submission Update
+## Branch Details
 
-As of the mid-submission checkpoint, the repository contains **6 active branches**:
+The repository contains **7 active branches**:
 
 1. **`main`**  
    Hosts all essential documentation, reports, and submission-related materials.
