@@ -5,3 +5,13 @@
 /LRA
 /data
 /results
+
+/audio-perf
+/bart_fnet_full_results
+
+/bart_sst2_decoder_results
+/dumm
+/image-class-task
+
+/sst2_full_fnet_bart_final
+
