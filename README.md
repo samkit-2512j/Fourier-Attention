@@ -33,6 +33,8 @@ The repository contains **7 active branches**:
 
 ## Team Members
 
-- **Samkit Jain** – samkit.jain@students.iiit.ac.in [github](https://github.com/samkit-2512j)
-- **Aryan Garg** – aryan.garg@stuudents.iiit.ac.in ([github](https://github.com/AryanGarg13))
-- 
+- <strong>Samkit Jain</strong> – <a href="mailto:samkit.jain@students.iiit.ac.in">samkit.jain@students.iiit.ac.in</a> 
+  [<a href="https://github.com/samkit-2512j" target="_blank">GitHub</a>]
+
+- <strong>Aryan Garg</strong> – <a href="mailto:aryan.garg@stuudents.iiit.ac.in">aryan.garg@stuudents.iiit.ac.in</a> 
+  [<a href="https://github.com/AryanGarg13" target="_blank">GitHub</a>]
