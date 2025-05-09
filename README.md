@@ -26,6 +26,9 @@ As of the mid-submission checkpoint, the repository contains **6 active branches
 6. **`jedi-base`**  
    An improved version of the [JEDI](https://github.com/Willy-Chan/JEDI) repository, with added metrics and support for fine-tuning BART-based models.
 
+7. **phase-incopt**
+ We investigated the significance of the complex component of the Fourier Transform on multimodal datasets—specifically, images (CIFAR-10) and audio (Speech Commands).
+
 ---
 
 ## Status
