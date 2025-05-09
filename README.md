@@ -27,7 +27,7 @@ The repository contains **7 active branches**:
    An improved version of the [JEDI](https://github.com/Willy-Chan/JEDI) repository, with added metrics and support for fine-tuning BART-based models.
 
 7. **`phase-incorp`**
- We investigated the significance of the complex component of the Fourier Transform on multimodal datasets—specifically, images (CIFAR-10) and audio (Speech Commands).
+    We investigated the significance of the complex component of the Fourier Transform on multimodal datasets—specifically, images (CIFAR-10) and audio (Speech Commands).
 
 ---
 
