@@ -21,7 +21,7 @@ The repository contains **7 active branches**:
 
 5. **`FourierTransform`**  
    An unofficial fork of [lumia-group/fouriertransformer](https://github.com/lumia-group/fouriertransformer).  
-   _Note: Minimal activity on this branch as of mid-submission._
+   _Note: Minimal activity on this branch due to computational issues of experimenting this._
 
 6. **`jedi-base`**  
    An improved version of the [JEDI](https://github.com/Willy-Chan/JEDI) repository, with added metrics and support for fine-tuning BART-based models.
@@ -31,10 +31,8 @@ The repository contains **7 active branches**:
 
 ---
 
-## Team Members
+## Contributors : 
 
-- <strong>Samkit Jain</strong> – <a href="mailto:samkit.jain@students.iiit.ac.in">samkit.jain@students.iiit.ac.in</a> 
-  [<a href="https://github.com/samkit-2512j" target="_blank">GitHub</a>]
+- **Samkit Jain** – <samkit.jain@students.iiit.ac.in> ([Profile](https://github.com/samkit-2512j))
+- **Aryan Garg** – <aryan.garg@stuudents.iiit.ac.in> ([Profile](https://github.com/AryanGarg13))
 
-- <strong>Aryan Garg</strong> – <a href="mailto:aryan.garg@stuudents.iiit.ac.in">aryan.garg@stuudents.iiit.ac.in</a> 
-  [<a href="https://github.com/AryanGarg13" target="_blank">GitHub</a>]
