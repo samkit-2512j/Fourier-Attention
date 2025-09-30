@@ -1,4 +1,4 @@
-# FART-INLP  
+# Fourier Attention
 Repository for maintaining all code, experiments, and documentation related to the INLP Project.
 
 ---
